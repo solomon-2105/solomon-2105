@@ -28,7 +28,7 @@
 
 - **Email:** sinaiprem2004@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/premsinai/  
-- **LeetCode:**https://leetcode.com/u/solomon_2105/
+- **LeetCode:** https://leetcode.com/u/solomon_2105/
 
 ---
 
