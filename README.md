@@ -8,11 +8,11 @@
 
 ### 🚀 About Me
 
-- **Currently learning:** Web development (via Angela Yu's course), Striver's A2Z DSA Sheet  
-- **Strong in:** Python & Java
+- **Currently learning:** PERN Stack, Striver's A2Z DSA Sheet  
+- **Strong in:** Python , Java and C++
 - **DSA Goals:** Cracking patterns, writing articles, and explaining concepts like a pro  
-- **ML Goals:** Exploring CampusX’s 100 Days of ML playlist on weekends , Gearing up for GATE with a focus on the Data Science and Artificial Intelligence
-- **Currently Grinding:** Full-stack development + DSA 
+- **ML Goals:** Exploring CampusX’s playlists on weekends , Gearing up for GATE with a focus on the Data Science and Artificial Intelligence
+- **Currently Grinding:** Full-stack development + DSA + Machine Learning
 
 ---
 
