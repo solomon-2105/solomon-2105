@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - **Currently Grinding:** Full-stack development + DSA + Machine Learning
-- **Strong in:** Python and C++
+- **Strong in:** Python, Java , C++
 - **DSA Goals:** Cracking patterns, writing articles, and explaining concepts like a pro  
 - **ML Goals:** Exploring CampusX’s playlists on weekends , Gearing up for GATE with a focus on the Data Science and Artificial Intelligence
 
