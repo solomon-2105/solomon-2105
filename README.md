@@ -15,7 +15,7 @@
 ---
 
 - I love to handle bugs *and* belt out Beyoncé or Bhairavi 😌
-- Dreaming big: From software dev to eventually becoming a Data Scientist , lifelong passion :) **
+- Dreaming big: From software dev to eventually becoming a Data Scientist , lifelong passion :)
 
 ---
 
