@@ -1,12 +1,12 @@
-<h1 align="center">Hey there, I'm Solomon 👋</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" alt="Coding GIF">
+  <h1 align="center">👋 Hi, I'm Solomon Prem Sinai</h1>
+  <p align="center">
+    <span style="color:#b993d6;">Minimalist, creative, endlessly curious.</span> 🎨
+  </p>
+</div>
 
-<p align="center">
-  <em>Aspiring <b>Software Developer</b> | <b>Machine Learning Enthusiast</b></em>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Data Analytics"/>
-</p>
+---
 
 ### 🚀 About Me  
 - 🔭 Currently exploring: **Machine Learning**, **PERN Stack**, and advanced **DSA**  
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
 </p>
+
 ---
 
 ### 🤝 Let’s Connect  
@@ -43,5 +44,8 @@
   <a href="https://www.linkedin.com/in/premsinai/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Creative animated">
+  <br><sub>Always learning, always exploring.</sub>
+</div>
 
